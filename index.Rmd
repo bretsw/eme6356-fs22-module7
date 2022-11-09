@@ -57,6 +57,18 @@ include_graphics("img/7-data-story2.png")
 
 ---
 
+# `r fa("far fa-newspaper", fill = "#fff")` Data Stories
+
+```{r, out.width = "520px", echo = FALSE, fig.align = "center"}
+include_graphics("img/7-data-story3.png")
+```
+
+>I wound up meeting with a Director who came in huffing and puffing. The Director said "We should know when users leave their house, their commute to work, and everywhere they go throughout the day. Anything less is useless. We get a lot more than that from other tech companies."
+
+(Tweet from [@stevekrenzel](https://twitter.com/stevekrenzel/status/1589700736207949824))
+
+---
+
 class: inverse, center, middle
 
 # `r fa("thumbs-up", fill = "#fff")` <br><br> Module 6 Discussion <br> Themes and Kudos
